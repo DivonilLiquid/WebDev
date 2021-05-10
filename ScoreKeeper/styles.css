@@ -1,0 +1,20 @@
+.winner{
+    color: green;
+}
+.loser{
+    color: red;
+}
+.PlayingTo{
+    font-weight: bold;
+    display: inline;
+}
+.finish{
+    padding: 10px 0px 30px 300px;
+}
+.pic{
+    width: 800px;
+    padding: 30px 0px 0px 150px;
+}
+body{
+    background: lavenderblush;
+}
